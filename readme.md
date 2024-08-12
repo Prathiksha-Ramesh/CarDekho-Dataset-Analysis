@@ -74,6 +74,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## Contact
 
-For any inquiries or feedback, please contact [Your Name] at [your.email@example.com].
